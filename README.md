@@ -1,5 +1,9 @@
 # My Snake Game
 
+[Visit The Deployed My Snake Game Website](https://my-snake-game-the-best.vercel.app)
+
+**Author:** Hendrich Buhrer 
+
 ## Project Background
 This project represents my first full integration of custom-designed assets into a web game. Building on my previous junior game development experience with Asteroid Field (Python) and Block Stacking Game (Vanilla JS), this project pushed me to combine both design and development skills in a new way.
 
