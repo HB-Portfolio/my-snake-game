@@ -77,19 +77,6 @@ Actual time spent vs planned (40-hour total):
 - Bug Fixing: 7 hours (2 hours over due to width class issues)
 - Final Polish: 2 hours (reduced to accommodate bug fixing)
 
-## Running the Game
-
-```bash
-# Install dependencies
-npm install
-
-# Development server
-npm run dev
-
-# Production build
-npm run build
-```
-
 ## Future Roadmap
 1. **Immediate Plans**:
    - Implement arcade-style leaderboard (3-character names, no login required)
