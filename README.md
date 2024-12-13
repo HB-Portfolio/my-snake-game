@@ -60,13 +60,13 @@ GameComponent.vue
     ├── Movement system
     ├── Collision detection
     ├── Scoring mechanics
-    └── Sprite management
+    ├──  Sprite management
     └── Cross-device controls
 
 index.vue
 └── Game container
     ├── Background management
-    ├── Responsive layout
+    └── Responsive layout
 ```
 
 ### Development Timeline
