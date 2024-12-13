@@ -1,0 +1,1 @@
+export { default } from "file:///Users/hbuhrer/Documents/Macbook/SAIT/Code%20Portfolio/snake-game/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
